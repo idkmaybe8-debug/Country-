@@ -1,2 +1,3 @@
 Tanzania|🇹🇿|0.0153|255XXX
 Guinea|🇬🇳|0.009|2246XX
+Sudan|🇸🇩|$0.01035|2491XXX
