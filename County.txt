@@ -1,1 +1,2 @@
-Tanzania=$0.0153,Guinea=$0.009
+Tanzania|🇹🇿|0.0153
+Guinea|🇬🇳|0.009
